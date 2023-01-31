@@ -7,6 +7,8 @@ The dataset that can be used for this task:
 - https://github.com/microsoft/USBuildingFootprints (building detection)
 - https://spacenet.ai/
 - https://www.isprs.org/education/benchmarks/UrbanSemLab/default.aspx
+- https://github.com/chrieke/awesome-satellite-imagery-datasets 
+
 
 1. Task 1:
 
