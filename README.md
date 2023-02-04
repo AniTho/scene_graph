@@ -8,6 +8,7 @@ The dataset that can be used for this task:
 - https://spacenet.ai/
 - https://www.isprs.org/education/benchmarks/UrbanSemLab/default.aspx
 - https://github.com/chrieke/awesome-satellite-imagery-datasets 
+- https://github.com/Seyed-Ali-Ahmadi/Awesome_Satellite_Benchmark_Datasets
 
 
 1. Task 1:
