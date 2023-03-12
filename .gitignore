@@ -1,3 +1,4 @@
 data/
 research_env/
 *.pt
+wandb/
