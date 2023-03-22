@@ -13,6 +13,7 @@
 - [x] Integrate wandb 
 - [x] **Generate Scene Graph:** Building connectivity graph using `NetworkX` 
 - [x] Generate Query Graph
+- [ ] Apply maximum common subgraph matching algorithm 
 - [ ] **Subgraph Isomorphism** between scene graph and query graph
 - [ ] **Subgraph Retrievel** using GCN
 - [ ] Try other architectures instead of UNet
