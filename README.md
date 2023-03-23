@@ -12,7 +12,8 @@
 - [x] Create Segmentation Model using `UNet` Architecture with `ResNet34` base model
 - [x] Integrate wandb 
 - [x] **Generate Scene Graph:** Building connectivity graph using `NetworkX` 
-- [ ] Generate Query Graph
+- [x] Generate Query Graph
+- [ ] Apply maximum common subgraph matching algorithm 
 - [ ] **Subgraph Isomorphism** between scene graph and query graph
 - [ ] **Subgraph Retrievel** using GCN
 - [ ] Try other architectures instead of UNet
