@@ -1,4 +1,5 @@
 ## Scene Graph Generation & Subgraph Retrieval on Satellite Imagery
+![alt text](scene_graph.png)
 
 ### Project Objective
 - Primary objective of this research project is to develop an efficient and accurate scene graph generation method to generate a semantic structural scene graph for satellite imagery analysis.
