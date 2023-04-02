@@ -1,13 +1,13 @@
-# Scene Graph Generation & Subgraph Retrieval on Satellite Imagery
+## Scene Graph Generation & Subgraph Retrieval on Satellite Imagery
 
-## Project Objective
+### Project Objective
 - Primary objective of this research project is to develop an efficient and accurate scene graph generation method to generate a semantic structural scene graph for satellite imagery analysis.
 - Secondary objective is to propose a subgraph retrieval approach that can effectively extract specific subgraphs from the generated scene graph, which will be useful for various remote-sensing & GIS applications.
 
-## Dataset Used
+### Dataset Used
 - We are using `FloodNet-Supervised Dataset` from here: https://github.com/BinaLab/FloodNet-Supervised_v1.0 
 
-## Project Checklist
+### Project Checklist
 - [x] Data set selection
 - [x] Create Segmentation Model using `UNet` Architecture with `ResNet34` base model
 - [x] Integrate wandb 
